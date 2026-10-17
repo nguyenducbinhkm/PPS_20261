@@ -1,0 +1,21 @@
+Hướng dẫn sử dụng chương trình
+Các chương trình được sử dụng
+NewtonInterpolation: đa thức nội suy Newton mốc bất kì
+NewtonInterpolationForward: đa thức nội suy Newton tiến mốc cách đều
+NewtonInterpolaitonBackward: đa thức nội suy Newton lùi mốc cách đều
+1 số lưu ý trước khi sử dụng
+Chương trình sử dụng ngôn ngữ Python
+Cần cài 1 số thư viện: numpy, matplotlib
+Cần xác định đường dẫn file input chỉnh sửa vào line 11
+Hướng dẫn sử dụng chi tiết
+NewtonInterpolation:
+Bước 1: Nhập các mốc nội suy vào file input. Nhập x rồi đến f(x), mỗi mốc 1 dòng.
+Bước 2: Muốn sử dụng Newton lùi xóa # line 107 thêm # 108
+Đổi biến: xóa # line 103 -> 105 , chỉnh sửa biểu thức đổi biến line 85
+Vẽ đồ thị hàm đã biết: xóa # line 75 76 77 79. Chính sửa biểu thức hàm ở line 75
+Bước 3: Chạy chương trình, nhập mốc cần tính giá trị. Màn hình sẽ hiển thị các mốc nội suy, các
+mốc sau khi đổi biến (nếu có), hệ số đa thức nội suy Newton, giá trị ước lượng.
+Bước 4: Nhập số lượng mốc muốn thêm
+Bước 5: Nhập các mốc và giá trị các mốc. Màn hình sẽ hiển thị hệ số đa thức nội suy Newton,
+giá trị ước lượng mới.
+Bước 6: Đồ thị được lưu tại newton.png cùng địa chỉ với file code

@@ -1,0 +1,1 @@
+Gia tri cua da thuc f(x) tai diem x = 2.0 la 26.0

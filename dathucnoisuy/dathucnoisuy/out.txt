@@ -1,0 +1,24 @@
+----------------------------------------
+Cac moc noi suy ban dau la:
+       0    1.0000000  
+       1    2.0000000  
+       2    5.0000000  
+       3    10.0000000  
+----------------------------------------
+Ma tran Vandemonde tao boi cac moc noi suy:
+           1           0           0           0
+           1           1           1           1
+           1           2           4           8
+           1           3           9          27
+----------------------------------------
+Ma tran mo rong cua hpt duoc chuyen thanh ma tran bac thang nhu sau:
+       1         0         0         0  
+       0         1         1         1  
+       0         0         2         6  
+       0         0         0         6  
+----------------------------------------
+Da thuc noi suy la: f(x) = a0 + a1x + a2x^2 + a3x^3
+x0=       1  x1=       0  x2=       1  x3=       0  
+----------------------------------------
+Tinh gia tri cua bieu thuc tai diem x = 1.5 la:
+3.2500000000

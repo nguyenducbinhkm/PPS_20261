@@ -1,0 +1,22 @@
+Sap xep theo cac moc noi suy tang dan
+1.0 1.5
+1.125 1.5261316221750008
+1.25 1.5603972084031947
+1.375 1.6001582244485388
+1.5 1.6437040304377815
+1.625 1.6898860111120257
+1.75 1.7379107191052117
+1.875 1.7872171655600166
+
+In cac he so tu x^0 den x^7
+3.0261732178687453 -6.06050716718164 9.811055086058332 -8.87585407239385 5.058390029662405 -1.7858356608885515 0.3577302990379394 -0.031151732235002783
+
+Gia tri da thuc ns Lagrange tai x = 1.0 bang 1.4999999999
+Gia tri da thuc ns Lagrange tai x = 1.125 bang 1.5261316220
+Gia tri da thuc ns Lagrange tai x = 1.25 bang 1.5603972080
+Gia tri da thuc ns Lagrange tai x = 1.375 bang 1.6001582237
+Gia tri da thuc ns Lagrange tai x = 1.5 bang 1.6437040292
+Gia tri da thuc ns Lagrange tai x = 1.625 bang 1.6898860092
+Gia tri da thuc ns Lagrange tai x = 1.75 bang 1.7379107163
+Gia tri da thuc ns Lagrange tai x = 1.875 bang 1.7872171617
+Gia tri da thuc ns Lagrange tai x = 1.6 bang 1.6804808010
