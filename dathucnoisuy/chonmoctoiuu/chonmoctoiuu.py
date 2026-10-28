@@ -19,4 +19,4 @@ for i in range(n_int + 1):
 # Ghi kết quả ra file out.txt (tương đương freopen("out.txt", "w", stdout))
 with open("out.txt", "w") as f:
     result = " ".join(map(str, x)) + " "
-    f.write(result)
+    f.write(result) 

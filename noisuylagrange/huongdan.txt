@@ -1,0 +1,5 @@
+dòng đầu tiên là số mốc nội suy, ví dụ có bao nhiêu cặp x y thì viết bấy nhiêu
+các dòng dưới là các cặp x y tương ứng, x viết trước y viết sau 
+sau khi viết xong cái này nếu muốn tính giá trị tại các điểm nữa thì muốn tính tại bao nhiêu điểm ghi ra 
+sau đó liệt kê các điểm muốn tính ra, các điểm muốn tính đấy là x 
+

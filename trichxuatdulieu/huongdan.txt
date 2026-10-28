@@ -1,0 +1,5 @@
+bài sẽ cho các file ex, chỉ cần kéo file vào cùng thư mục sau đó chạy 
+chương trình sẽ nhận diện được các file có đuôi xlsx và sau đó liệt kê dưới dạng danh sánh để người dùng chọn 
+sau khi chọn file chương trình bắt đầu đọc file 
+trích xuất ra đủ các điểm quanh các mốc nội suy 
+yêu cầu nhập số điểm cân trích xuất và cả giá trị x ngang cần tính 

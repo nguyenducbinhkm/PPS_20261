@@ -1,0 +1,1 @@
+trong file input thì nhập lần lượt các cặp x,y vào sau đó ở cuối là nhập giá trị muốn tính/ đề yêu cầu 

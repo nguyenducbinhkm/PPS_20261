@@ -1,0 +1,4 @@
+trong file input thì dòng đầu tiên là bậc của đa thức 
+n+ 1 số tiếp theo chính là các hệ số của các thành phần trong đa thức từ bậc cao nhất xuống bậc thấp nhất 
+số cuối cùng là giá trị c 
+còn nếu đề yêu cầu tính đạo hàm các cấp thì chạy file đạo hàm các cấp kia, file đó dùng chung file đầu vào nhưng khác file đâu ra 
